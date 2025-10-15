@@ -1,0 +1,29 @@
+{
+  "name": "first-image-docker",
+  "version": "1.0.0",
+  "description": "versao 1 api com docker",
+  "keywords": [
+    "node",
+    "docker"
+  ],
+  "homepage": "https://github.com/Anny-Pereira/First-Image-Docker#readme",
+  "bugs": {
+    "url": "https://github.com/Anny-Pereira/First-Image-Docker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anny-Pereira/First-Image-Docker.git"
+  },
+  "license": "ISC",
+  "author": "Anny Pereira",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "expres": "^0.0.5",
+    "express": "^5.1.0"
+  }
+}
